@@ -1,2 +1,2 @@
-#Challenge Hub
-#QR code component
+Challenge Hub
+QR code component
